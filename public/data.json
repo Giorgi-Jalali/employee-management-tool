@@ -1,0 +1,12 @@
+[
+  { "name": "Hannah", "department": "Marketing", "role": "Content Creator" },
+  { "name": "Alice", "department": "HR", "role": "Manager" },
+  { "name": "Jack", "department": "Support", "role": "Technician" },
+  { "name": "Charlie", "department": "Sales", "role": "Representative" },
+  { "name": "Eve", "department": "HR", "role": "Recruiter" },
+  { "name": "David", "department": "Engineering", "role": "Team Lead" },
+  { "name": "Grace", "department": "Engineering", "role": "QA Tester" },
+  { "name": "Frank", "department": "Sales", "role": "Manager" },
+  { "name": "Bob", "department": "Engineering", "role": "Developer" },
+  { "name": "Isaac", "department": "Marketing", "role": "SEO Specialist" }
+]
